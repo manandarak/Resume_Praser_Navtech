@@ -1,0 +1,35 @@
+{
+    "Contact Information": {
+        "Name": "MANAN DARAK",
+        "Email": "manandarak35635@gmail.com",
+        "Phone Number": "+91-7357824744"
+    },
+    "Education History": [
+        {
+            "Institution": "Jain University",
+            "Degree": "Bachelor of Computer Applications",
+            "Graduation Year": "Apr 2025"
+        }
+    ],
+    "Work Experience": [
+        {
+            "Company": "PropFTX",
+            "Position": "Data Scientist",
+            "Description": "Designed and deployed a production-grade ML-based property valuation model achieving 90% prediction accuracy , enhancing investor decision-making and reducing manual analyst review time by 60%.  Architected a hybrid forecasting pipeline (gradient-boosted ML + CAGR) with NLP sentiment analysis on market reports, increasing recommendation relevance by 20%.  Implemented CI/CD pipelines withMLflow experiment tracking and DVC versioning for reproducible, auditable model deployments across staging and production.  Deployed a FastAPI REST ML inference service onAWS EC2 delivering real-time predictions at sub-100ms latency for live platform users.",
+            "Duration": "Jan 2025 - Jan 2026"
+        },
+        {
+            "Company": "PropFTX",
+            "Position": "Data Science Intern",
+            "Description": "Engineered large-scale ETL and web scraping pipelines automating collection of 50,000+ property listings , cutting data acquisition time by 95%.  Prototyped an NLP-driven recommendation engine (TF-IDF + cosine similarity) later scaled into a full production-ready system during the full-time role.",
+            "Duration": "Sep 2024 - Dec 2024"
+        }
+    ],
+    "Skills": [
+        "Programming Languages & Databases: Python, Java, SQL, MySQL, Firestore",
+        "Machine Learning & Deep Learning: Scikit-Learn, TensorFlow, Keras, XGBoost, Pandas, NumPy, Matplotlib, Seaborn",
+        "NLP & Generative AI: NLP , LLMs, Prompt Engineering, RAG, LangChain, Google Gemini Pro, Agentic Workflows, Workflow Orchestration",
+        "MLOps & Cloud: AWS (EC2, SageMaker, S3, RDS), Docker, MLflow, DVC, CI/CD, Git",
+        "APIs & Developer Tools: FastAPI, Flask, Streamlit, REST APIs, Gmail API, Postman, Selenium, BeautifulSoup"
+    ]
+}
